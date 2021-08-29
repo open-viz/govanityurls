@@ -1,7 +1,7 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: go.openviz.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /grafana-operator:
+    repo: https://github.com/open-viz/grafana-operator
+  /installer:
+    repo: https://github.com/open-viz/installer
