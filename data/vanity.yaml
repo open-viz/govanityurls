@@ -1,6 +1,8 @@
 host: go.openviz.dev
 
 paths:
+  /grafana-sdk:
+    repo: https://github.com/open-viz/grafana-sdk
   /grafana-tools:
     repo: https://github.com/open-viz/grafana-tools
   /installer:
