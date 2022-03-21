@@ -1,6 +1,8 @@
 host: go.openviz.dev
 
 paths:
+  /apimachinery:
+    repo: https://github.com/open-viz/apimachinery
   /grafana-sdk:
     repo: https://github.com/open-viz/grafana-sdk
   /grafana-tools:
