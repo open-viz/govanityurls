@@ -9,3 +9,5 @@ paths:
     repo: https://github.com/open-viz/grafana-tools
   /installer:
     repo: https://github.com/open-viz/installer
+  /trickster-config:
+    repo: https://github.com/open-viz/trickster-config
